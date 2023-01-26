@@ -1,0 +1,6 @@
+map_32by32_obst204_agents90_ex10
+map_32by32_obst204_agents90_ex27
+map_32by32_obst204_agents90_ex41
+map_32by32_obst204_agents90_ex46
+map_32by32_obst204_agents90_ex52
+map_32by32_obst204_agents90_ex54
